@@ -10,6 +10,6 @@ The SER system was built with __Python__ and trained with audios produced by __P
 
 ### API Outputs: ###
 * 0 - Happiness
-* 1 - Neutra
-* 2 - Raiva
-* 3 - Tristeza
+* 1 - Neutral
+* 2 - Anger
+* 3 - Sadness
